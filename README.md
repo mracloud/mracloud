@@ -2,8 +2,8 @@
 
 Just another bearded human being, lifelong learner, and tech enthusiast living and working in Hamburg, Germany. I’m just trying to navigate myself thru this thing called life!
 
-- 👀 I’m interested in Linux (Debian, Elementary OS and Zorin OS).
-- 🌱 I’m currently learning WordPress.
+- I'm interested in bringing old or ancient hardware or back to life with Linux (Debian, Elementary OS and Zorin OS).
+- I’m currently learning CSS and WordPress.
 
 <!---
 mracloud/mracloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
