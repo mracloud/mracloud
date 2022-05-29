@@ -1,6 +1,6 @@
 # Hi, I'm Alper aka @mr_acloud
 
-Just another bearded human being, lifelong learner, and tech enthusiast living and working in Hamburg, Germany.
+Just another bearded human being, lifelong learner, and tech enthusiast living and working in Hamburg, Germany. I’m just trying to navigate myself thru this thing called life!
 
 - 👀 I’m interested in Linux (Debian, Elementary OS and Zorin OS).
 - 🌱 I’m currently learning WordPress.
